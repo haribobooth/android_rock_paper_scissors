@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="option1text">Rock</string>
+    <string name="option2text">Paper</string>
+    <string name="option3text">Scissors</string>
+    <string name="main_screen_title">Rock! Paper! Scissors!</string>
+</resources>
