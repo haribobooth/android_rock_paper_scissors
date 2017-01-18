@@ -34,4 +34,5 @@ public class ResultActivity extends AppCompatActivity {
         computerChoice.setText("The computer played: " + computerChoiceString);
         resultMessage.setText(resultString);
     }
+
 }
