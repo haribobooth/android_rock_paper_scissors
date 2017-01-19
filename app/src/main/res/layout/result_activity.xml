@@ -6,6 +6,7 @@
     <TextView
         android:id="@+id/player_choice_text"
         android:textSize="25sp"
+        android:textColor="#000000"
         android:text=""
         android:layout_marginTop="30dp"
         android:layout_marginLeft="10dp"
@@ -15,6 +16,7 @@
     <TextView
         android:id="@+id/computer_choice_text"
         android:textSize="25sp"
+        android:textColor="#000000"
         android:text=""
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
@@ -24,6 +26,7 @@
     <TextView
         android:id="@+id/result_message_text"
         android:textSize="35sp"
+        android:textColor="#000000"
         android:text=""
         android:layout_marginTop="50dp"
         android:layout_marginLeft="10dp"
